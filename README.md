@@ -1,2 +1,2 @@
-# CNN-sklearn-image-classifier
-A Convolutional Neural Network made with python sklearn, for image recognition and classification.
+# CNN-image-classifier
+This project is about many kind of implementations of a Convolutional Neural Network, using differents techniques and librairies.
