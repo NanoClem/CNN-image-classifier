@@ -68,8 +68,6 @@ if __name__ == "__main__":
     trainLoader = DataLoader(dataset=trainData, batch_size=batchSize, shuffle=True, num_workers=workers)
     validLoader = DataLoader(dataset=validData, batch_size=batchSize, shuffle=False, num_workers=workers)
     testLoader  = DataLoader(dataset=testData, batch_size=batchSize, shuffle=False, num_workers=workers)
-
-    #trainimages, trainlabels = next(iter(trainLoader))
 # %%
     # =========================================================================
     #       INIT TRAINING
